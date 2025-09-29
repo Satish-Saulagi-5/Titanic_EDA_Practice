@@ -34,6 +34,5 @@ The dataset is processed using Python and visualized through plots to uncover me
    - Plotted survival rate against family size.
 
 ## 🚀 How to Run
-1. Clone this repository:  
-   ```bash
+1. Clone this repository:
 https://github.com/Satish-Saulagi-5/Titanic_EDA_Practice.git
