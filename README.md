@@ -36,3 +36,4 @@ The dataset is processed using Python and visualized through plots to uncover me
 ## 🚀 How to Run
 1. Clone this repository:  
    ```bash
+https://github.com/Satish-Saulagi-5/Titanic_EDA_Practice.git
